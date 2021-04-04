@@ -1,1 +1,15 @@
-# BotConsultasDiscord
+BOT CONSULTOR BÁSICO FEITO POR dock0d1!
+
+QUALQUER DÚVIDA ME CHAME NO DISCORD: $kirazw#0001
+
+PARA RODAR O BOT, EXECUTE NO TERMINAL:
+
+npm install discord.js@12.0.0
+
+npm install request
+
+npm install colors
+
+APÓS ISSO, CONFIGURE O PREFIXO, TOKEN E A COR DA EMBED DE SEU BOT EM config.json
+
+FEITO ISSO, SEJA FELIZ E RODE O BOT! <3
