@@ -1,7 +1,7 @@
 // PACOTES NECESSÁRIOS
 const Discord = require('discord.js');// discord.js é um módulo node.js poderoso que permite que você interaja com a API Discord muito facilmente
-const request = require('request');
-const colors = require('colors');
+const request = require('request');//Faz a requisição com o servidor
+const colors = require('colors');// Meche com as cores
 const app = new Discord.Client();
 
 // AQUI PEGARÁ DO CONFIG.JSON AS STRING'S DEFINIDAS NO JSON PARA UTILIZAR NO APP.JS
