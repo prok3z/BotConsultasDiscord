@@ -29,7 +29,7 @@ app.on('message', message => {
 
 // MENSAGEM ENVIADA APÓS O BOT FICAR ATIVO!
 app.on("ready", () => {
-    console.log('Bot consultor feito por: '.green + "dock0d1'#0001".red);
+    console.log('Bot consultor feito por: '.green + "dock'#0001".red);
     console.log('Logado no bot: '.green + `${app.user.tag}`.red);
 });
 
