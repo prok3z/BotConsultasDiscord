@@ -1,4 +1,4 @@
-const Discord = require('discord.js');
+const Discord = require('discord.js');//Const
 const { color, prefix } = require('../../config.json');
 
 module.exports.run = (app, message, args) => {
