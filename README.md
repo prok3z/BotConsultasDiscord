@@ -6,7 +6,7 @@
 
 npm install discord.js@12.0.0
 
-npm install request
+```npm install request```
 
 npm install colors
 
