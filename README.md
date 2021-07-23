@@ -4,11 +4,11 @@
 
 <b>PARA RODAR O BOT, EXECUTE NO TERMINAL:</b>
 
-npm install discord.js@12.0.0
+```npm install discord.js@12.0.0```
 
 ```npm install request```
 
-npm install colors
+```npm install colors```
 
 APÓS ISSO, CONFIGURE O PREFIXO, TOKEN E A COR DA EMBED DE SEU BOT EM config.json
 
