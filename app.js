@@ -7,7 +7,7 @@ const app = new Discord.Client();//Discord Client
 // AQUI PEGARÁ DO CONFIG.JSON AS STRING'S DEFINIDAS NO JSON PARA UTILIZAR NO APP.JS
 const { token, prefix, color } = require("./config.json");
 
-// COMMAND HANDLER PARA COLOCAR OS 
+// COMMAND HANDLER PARA COLOCAR OS COMANDOS
 app.on('message', message => {
     if (message.author.bot) return;
     if (message.channel.type == 'dm') return;
