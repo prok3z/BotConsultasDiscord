@@ -9,6 +9,10 @@
 
 ```npm install colors```
 
-APÓS ISSO, CONFIGURE O PREFIXO, TOKEN E A COR DA EMBED DE SEU BOT EM config.json
-
+APÓS ISSO, CONFIGURE:<br> 
+PREFIXO <br>
+TOKEN <br>
+E A COR DA EMBED DE SEU BOT EM<br>
+config.json
+<br>
 FEITO ISSO, SEJA FELIZ E RODE O BOT! <3
