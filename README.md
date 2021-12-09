@@ -1,5 +1,5 @@
 <b><h1>BOT CONSULTOR</h1></b>
-<b>any questions call me on discord: dock0d1#0001</b>
+<b>any questions call me on discord: dock#8972</b>
 
 <b>to start the bot, run in the terminal:</b>
 
