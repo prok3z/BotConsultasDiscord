@@ -1,7 +1,7 @@
 <b><h1>BOT CONSULTOR</h1></b>
-<b>QUALQUER DÚVIDA ME CHAME NO DISCORD: dock0d1#0001</b>
+<b>any questions call me on discord: dock0d1#0001</b>
 
-<b>PARA RODAR O BOT, EXECUTE NO TERMINAL:</b>
+<b>to start the bot, run in the terminal:</b>
 
 ```npm install discord.js@12.0.0```
 
@@ -9,10 +9,10 @@
 
 ```npm install colors```
 
-APÓS ISSO, CONFIGURE:<br> 
-PREFIXO <br>
-TOKEN <br>
-E A COR DA EMBED DE SEU BOT EM<br>
+after that, configure:<br> 
+prefix <br>
+token <br>
+and the color of your bot's embed<br>
 config.json
 <br>
-FEITO ISSO, SEJA FELIZ E RODE O BOT! <3
+done that, your bot will already be configured, just start! <3
